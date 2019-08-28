@@ -1,0 +1,39 @@
+&modrich_pedt
+
+   ntime = 20
+   dtime = 600.0
+   dtime_max = 600.0
+   dtime_min = 10.0
+   dz  = 75.0
+   q_infil = 0.0
+   q_drain = 0.0
+   initial_wtd = 2000.0 
+   nlevel = 7
+   nhorz = 3
+
+   rel_sat_max = 1.000001
+   rel_sat_min = 0.999999
+
+   isbg_one = 1
+   isbg_two = 2
+   isbg_three = 7
+   isbg_four = -1
+
+   snd_one = 0.4
+   snd_two = 0.2
+   snd_three = 0.1
+   snd_four = -1.0
+
+   slt_one = 0.4
+   slt_two = 0.5
+   slt_three = 0.3
+   slt_four = -1.0
+
+   cly_one = 0.2
+   cly_two = 0.3
+   cly_three = 0.6
+   cly_four = -1.0
+
+/
+
+

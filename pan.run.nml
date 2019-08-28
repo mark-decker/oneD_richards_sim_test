@@ -1,0 +1,21 @@
+&pan_isoil
+   ntime = 20
+   dtime = 600.0
+   dz  = 75.0
+   isoil_one = 3
+   isoil_two = 2
+   isoil_three = 6
+   isoil_four = 8
+   isbg_one = 1
+   isbg_two = 4
+   isbg_three = 15
+   isbg_four = 32
+   q_infil = 0.0005
+   q_drain = 0.0
+   initial_wtd = 2000.0 
+   nlevel = 7
+   iteration_tolerance = 0.0001
+   max_iterations = 500
+/
+
+
